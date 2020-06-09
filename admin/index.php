@@ -3,6 +3,8 @@
 session_start();
 include("../db.php");
 
+include "sidenav.php";
+include "topheader.php";
 ?>
       <!-- End Navbar -->
       <div class="content">
